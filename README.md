@@ -4,8 +4,7 @@ This project demonstrates a reinforcement learning agent navigating through a ra
 
 ## 📂 Project Structure
 
-- `main.ipynb`: Jupyter Notebook for experimentation
-- `maze_runner.py`: Main Python script
+- `main.ipynb`: Main Python script
 - `MazeRunnerWith QLearning/`: Folder where output GIFs are saved
 - `README.md`: Project documentation
 
